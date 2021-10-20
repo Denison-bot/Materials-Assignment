@@ -184,3 +184,57 @@ Received Import Request.
 Start importing Assets/Texture/wildtextures_mossed-tree-bark-seamless-2k-texture.jpg using Guid(c6692d8101a1ae1448bba3df489b1db7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aeb51e67ad4702e3e6a94bd42ede8ad') in 0.059323 seconds 
   Import took 0.064599 seconds .
 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.15 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 41.0 MB.
+System memory in use after: 41.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1864.
+Total: 3.901200 ms (FindLiveObjects: 0.146300 ms CreateObjectMapping: 0.043000 ms MarkObjects: 3.615100 ms  DeleteObjects: 0.095200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 862.521245 seconds.
+  path: Assets/Materials/Cube mat.mat
+  artifactKey: Guid(2a3e12653b5945946b191b563d28d51d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Cube mat.mat using Guid(2a3e12653b5945946b191b563d28d51d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8f4c3fffcfc8e1313045cf56140e6ec') in 0.017967 seconds 
+  Import took 0.022692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Materials/cylinder mat.mat
+  artifactKey: Guid(b64757408dc54a14ab3cc83d540faf65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/cylinder mat.mat using Guid(b64757408dc54a14ab3cc83d540faf65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc1e36f6eaf981e3212dc632d9ff46e4') in 0.025399 seconds 
+  Import took 0.027640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Materials/Sphere mat.mat
+  artifactKey: Guid(f0eeec1212152cc459405475f0fead42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Sphere mat.mat using Guid(f0eeec1212152cc459405475f0fead42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '886aed2a492613ea0ea009e5d8681099') in 0.016831 seconds 
+  Import took 0.019470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.171199 seconds.
+  path: Assets/Materials/Cube mat.mat
+  artifactKey: Guid(2a3e12653b5945946b191b563d28d51d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Cube mat.mat using Guid(2a3e12653b5945946b191b563d28d51d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8f4c3fffcfc8e1313045cf56140e6ec') in 0.015237 seconds 
+  Import took 0.020077 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
